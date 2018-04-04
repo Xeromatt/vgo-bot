@@ -15,7 +15,8 @@ A simple bot to allow users to join and leave certain roles
 ## Invite
 
 By inviting this bot to your server you agree to the [terms and conditions](#privacy-statement) laid out in the privacy section of this document.  
-If you agree, invite to your server with [this link](https://discordapp.com/oauth2/authorize?client_id=341303774838652928&scope=bot&permissions=0x10004c20).
+~~If you agree, invite to your server with this link~~.
+*Temporarily unavailable due to scaling issues and the large amount of attention recently.*
 
 ## Setup
 
